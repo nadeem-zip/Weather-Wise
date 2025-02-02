@@ -1,0 +1,25 @@
+.searchBox{
+    text-align: center;
+    /* display: inline-block;
+    display:flex;
+    flex-direction: column; */
+   
+    width:100vw; 
+
+}
+#city{
+    color: #f0f0f0;
+}
+#heading{
+    font-size: 1.5rem;
+    display: inline-block;
+    font-weight: bold;
+    margin:10px;
+    color:#f0f0f0;
+    text-shadow: 10px 10px 50px black;
+}
+p{
+    display: inline-block;
+    font-size: 1.2rem;
+    color: antiquewhite ;
+}
